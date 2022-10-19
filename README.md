@@ -1,7 +1,7 @@
 ### Hi there
 - 👋 Hi, I’m @OlonaAbdul
 - 👀 I’m interested in apply data science with python
-- 🌱 I’m currently learning data visualization with matplotlib
+- 🌱 I’m currently learning machine learning with pytho 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me on olonabasit@gmail.com
 
